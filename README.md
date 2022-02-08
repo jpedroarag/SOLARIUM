@@ -9,6 +9,8 @@ Desenvolvido pela equipe Lua, o Solarium UI é um produto voltado para a fácil 
 
 # Mapeamento de Funcionalidades
 
+Requisitos Implementados
+
 Código | Funcionalidade                                                         | Situação      | Localização
 -------|------------------------------------------------------------------------|---------------|--------------
 RF0001 | Mostrar tela "Login"                                                   | CONCLUÍDO     | [App.js](https://github.com/jpedroarag/Solarium-UI/blob/main/src/App.js), linha 15 <br/> [cadastro.js](https://github.com/jpedroarag/Solarium-UI/blob/main/src/Pages/Login/index.js), linha 107 <br/> [aulas.js](https://github.com/jpedroarag/Solarium-UI/blob/main/src/Pages/Aulas/aulas.js), linhas 28 e 29 (função `redirectToLogin`) <br/> [editor.js](https://github.com/jpedroarag/Solarium-UI/blob/main/src/Pages/Editor/editor.js), linhas 140 e 141 (função `redirectToLogin`)
