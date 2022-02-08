@@ -2,6 +2,11 @@
 
 Desenvolvido pela equipe Lua, o Solarium UI é um produto voltado para a fácil e rápida criação e publicação de aulas, usando mídias nos formatos de texto, imagem, vídeo e links externos.
 
+> **Observações:**
+> * Este repositório está dividido em dois submódulos, um contendo a interface gráfica e outro contendo a implementação de uma API. Ao usar `git clone` nele, certifique-se de adicionar a opção `--recursive` para que os submódulos também sejam clonados corretamente.
+> * A documentação dos requisitos funcionais do projeto se encontra nesse arquivo, com a documentação da API podendo ser encontrada [neste outro](https://github.com/jpedroarag/Solarium-API/blob/main/README.md).
+> * Por fim, a aplicação já em produção pode ser encontrada nesta [url](https://solarium-ui.herokuapp.com/).
+
 # Requisitos implementados
 
 Código | Funcionalidade                                                         | Situação      | Localização
