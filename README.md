@@ -7,7 +7,7 @@ Desenvolvido pela equipe Lua, o Solarium UI é um produto voltado para a fácil 
 > * A documentação dos requisitos funcionais do projeto se encontra nesse arquivo, com a documentação da API podendo ser encontrada [neste outro](https://github.com/jpedroarag/Solarium-API/blob/main/README.md).
 > * Por fim, a aplicação já em produção pode ser encontrada nesta [url](https://solarium-ui.herokuapp.com/).
 
-# Requisitos implementados
+# Mapeamento de Funcionalidades
 
 Código | Funcionalidade                                                         | Situação      | Localização
 -------|------------------------------------------------------------------------|---------------|--------------
