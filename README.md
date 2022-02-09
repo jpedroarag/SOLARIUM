@@ -5,7 +5,10 @@ Desenvolvido pela equipe Lua, o Solarium UI é um produto voltado para a fácil 
 > **Observações:**
 > * Este repositório está dividido em dois submódulos, um contendo a interface gráfica e outro contendo a implementação de uma API. Ao usar `git clone` nele, certifique-se de adicionar a opção `--recursive` para que os submódulos também sejam clonados corretamente.
 > * A documentação dos requisitos funcionais do projeto se encontra nesse arquivo, com a documentação da API podendo ser encontrada [neste outro](https://github.com/jpedroarag/Solarium-API/blob/main/README.md).
-> * Por fim, a aplicação já em produção pode ser encontrada nesta [url](https://solarium-ui.herokuapp.com/).
+
+# Instruções de execução
+
+Aplicação pode ser testada nesta [url](https://solarium-ui.herokuapp.com/).
 
 # Mapeamento de Funcionalidades
 
