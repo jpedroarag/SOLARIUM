@@ -1,3 +1,6 @@
 [submodule "Solarium-API"]
 	path = Solarium-API
 	url = https://github.com/jpedroarag/Solarium-API.git
+[submodule "Solarium-Interface"]
+	path = Solarium-Interface
+	url = https://github.com/jpedroarag/Solarium-Interface
